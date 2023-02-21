@@ -1,4 +1,4 @@
-# Awesome-AI-tools-for-product-development
+# Awesome AI tools for product development
 
 ## Development tools
 
