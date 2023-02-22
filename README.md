@@ -1,5 +1,18 @@
 # Awesome AI tools for product development
 
+💻 Building products can be tough but with awesome AI tools you can make it much faster.
+
+This AI tools list should help you on every stage of product development: from writing copy to writing code. Pick a task that needs to be automated and try tools there. Happy building:
+
+- [Developer Tools](https://github.com/LisaDziuba/Awesome-AI-tools-for-product-development/edit/main/README.md#development-tools)
+- [Coding Automation & Coding Assistants](https://github.com/LisaDziuba/Awesome-AI-tools-for-product-development/edit/main/README.md#coding-automation--coding-assistants)
+- [AI Logo Generator](https://github.com/LisaDziuba/Awesome-AI-tools-for-product-development/edit/main/README.md#ai-logo-generator)
+- [Product & marketing personalized videos tools](https://github.com/LisaDziuba/Awesome-AI-tools-for-product-development/edit/main/README.md#product--marketing-personalized-videos-tools)
+- [Legal Assistant for making things serious](https://github.com/LisaDziuba/Awesome-AI-tools-for-product-development/edit/main/README.md#legal-assistant-for-making-things-serious)
+
+
+
+P.S.: if you need to hire AI, ML or data science engineers, our freinds at Lemon.io have some for you. Huge kudos to the Lemon.io team for supporting this knowledge base!
 
 
 ## Development tools
@@ -19,6 +32,36 @@
 - [Mutable](https://mutable.ai) - Build fast with production quality using AI. Code Assistant. Free trial available.
 
 
+## Coding Automation & Coding Assistants
+
+* [Copilot](https://github.com/features/copilot) - Your AI pair programmer. GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor. Free trial available.
+* [Codeium](https://www.codeium.com/) - Codeium is the modern coding superpower, a code acceleration toolkit built on cutting edge AI technology. With easy integration into editors, you can focus on being the best software developer, not the best code monkey. Free 14-day trial.
+* [Replit](https://replit.com) - Replit recently added a feature called Ghostwriter that uses AI to complete code. Write and run code in 50+ languages in your browser with Replit, a powerful IDE, compiler, & interpreter. Free subscription option.
+* [Programminghelper](https://www.programming-helper.com/) - Code faster with the help of AI. Generate code just by typing a text description. AI will create the code for you. Test it now. No free trial.
+* [Tabnine](https://www.tabnine.com/) - Whether you’re part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE. Free trial available.
+* [Spellbox](https://spellbox.app/) - AI coding assistant for busy programmers. Solve any programming or engineering problem with A.I in seconds. No free trial or subscription option.
+* [CodeAssist](https://plugins.jetbrains.com/plugin/20085-codeassist) - CodeAssist (for Intellij) is an AI assistant / chatbot / copilot for programming. It generates or changes the code, given a description of the changes that you want to make. After installing, you can open it by clicking "CodeAssist" tab in the bottom-left corner. CodeAssist works with all popular programming languages. No free trial or subscription option.
+* [CodeGeeX](https://huggingface.co/spaces/THUDM/CodeGeeX) - CodeGeeX is a large-scale multilingual code generation model with 13 billion parameters, pre-trained on a large code corpus of more than 20 programming languages. CodeGeeX supports 15+ programming languages for both code generation and translation. Free trial available.
+* [Cheat Layer](https://cheatlayer.com/) - No-Code Business Automation. Cheat layer solves impossible business automation problems using a combination of no-code tools and machine learning to function as your personal software engineer. Free trial available.
+* [AI CLI](https://github.com/abhagsain) - Open Source GPT -3 Powered CLI. The current prompt length is ~840 tokens and the pricing for text-davinci-002 is $0.02 for 1K tokens which is ~$0.017/command. We'll see if we can improve the response as well as reduce the per-command-cost with fine-tuning. No free trial or subscription option available.
+* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Amazon CodeWhisperer is a machine learning (ML)–powered service that helps improve developer productivity by generating code recommendations based on their comments in natural language and code in the integrated development environment (IDE). No free trial or subscription option available.
+* [Duino Code Generator](https://www.duinocodegenerator.com/) - Automatically generate code for any Arduino compatible board with a single click. Let AI do the hard work so you can spend more time tinkering! Free.
+* [Hey GitHub](https://githubnext.com/projects/hey-github) - This tool helps you write code without touching the keyboard. It uses your voice to code without typing by talking with GitHub Copilot. Free trial available.
+* [CodeSquire](https://codesquire.ai) - AI code writing assistant for data scientists, engineers, and analysts. Get code completions and suggestions as you type. Free trial available.
+* [Buildt](https://www.buildt.ai) - AI-powered search to find code by searching for what it does, not just what it is. Once you find the part of the codebase their AI allows you to make changes simply by describing what you want. No free trial or free subscription option.
+* [Sketch](https://github.com/approximatelabs/sketch) - Sketch is an AI code-writing assistant for pandas users that understands the context of your data, greatly improving the relevance of suggestions. Sketch is usable in seconds and doesn't require adding a plugin to your IDE. Free.
+* [Clippy AI](https://marketplace.visualstudio.com/items?itemName=clippy-ai) - Clippy AI (VS Code Extension) is a simple wrapper around OpenAI Codex. It allows you to send Codex your current file as well as some instructions in plain-text English. It then opens a diff view in your editor so you can easily see the suggested changes and accept or reject them. Free trial available.
+* [BlackBox AI](https://www.useblackbox.io/) - BlackBox AI is a AI powered coding assistant so you can code 10x faster. It enables you to turn any question into code and features like extract code from any video and code autocompletion. Free trial available.
+* [WhatTheDiff](https://whatthediff.ai) - Your AI-powered code review assistant. Save costly developer time by automating pull request summaries. Open a pull request and get a summary of the changes in seconds. Instantly understand the implications of small pull requests and get a huge headstart on big ones. No free trial or free subscription option.
+* [Mutable](https://mutable.ai) - Build fast with production quality using AI. Free trial available.
+* [Stenography](https://stenography.dev/) - Finally. Automatic Documentation. No free trial or free subscription option.
+* [Kodezi ai](https://kodezi.com/) - Kodezi is the AI developer tool assistant that auto-corrects your code. Improve your code instantly using AI, get your bugs removed using Kodezi. Free trial available.
+* [Fig AI](https://fig.io/user-manual/ai) - A seamless add-on to your existing terminal, Fig integrates with the most popular terminals, shells & IDEs. No free trial or free subscription option.
+* [AskCodi](https://www.askcodi.com) - Write Syntax, Comments, and Tests. Faster. Easier. Better. AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent on development and more time to execute. No free trial or subscription.
+* [Maverick](https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick&) - Maverick is a code completion tool powered by AI. Built at Yurts, Maverick focuses on delivering the best code completion on your local machine without reaching out to any APIs or knowledge bases. Free trial available.
+
+
+
 ## AI Logo Generator
 
 * [Looka](https://looka.grsm.io) - Looka Logo Maker combines your logo design preferences with Artificial Intelligence to help you create a custom logo you'll love. Free trial available.
@@ -33,7 +76,9 @@
 * [Vidyo](https://vidyo.ai) - Make short videos from long ones instantly. Use powerful AI to create short clips from your existing videos. Save 90% time and effort. Free trial available.
 * [Tavus](https://tavus.io) - Meet Tavus, the programmatic personalized video tool made for top-performing product, marketing, and sales teams that want to transform how they build relationships. Record once and discover the power of Tavus as our AI automatically generates personalized videos for audiences large and small. No free trial.
 * [Windsor](https://windsor.io) - Send a personal video to every single customer so they never forget your brand. Record one video, and Windsor's AI sends out millions of personalized copies to your customers. Free trial available.
-* [Rephrase](https://rephrase.ai) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies. Free trial available.
+* [Rephrase](https://rephrase.ai) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business
+ efficiencies. Free trial available.
+
 
 
 ## Legal Assistant for making things serious
