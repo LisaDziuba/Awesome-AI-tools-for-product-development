@@ -12,8 +12,6 @@ This AI tools list should help you on every stage of product development: from w
 
 
 
-P.S.: if you need to hire AI, ML or data science engineers, our freinds at Lemon.io have some for you. Huge kudos to the Lemon.io team for supporting this knowledge base!
-
 
 ## Development tools
 
