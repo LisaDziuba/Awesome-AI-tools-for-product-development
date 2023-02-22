@@ -1,5 +1,7 @@
 # Awesome AI tools for product development
 
+
+
 ## Development tools
 
 - [Lookup](https://app.uselookup.com) - The AI-powered analytics platform that helps you get from data to insight 10X faster. Import your data, ask questions, get results instantly. Code Assistant. No free trial available.
@@ -16,3 +18,26 @@
 - [WhatTheDiff](https://whatthediff.ai) - Your AI-powered code review assistant. Save costly developer time by automating pull request summaries. Open a pull request and get a summary of the changes in seconds. Instantly understand the implications of small pull requests and get a huge headstart on big ones. Code Assistant. No free trial or free subscription option.
 - [Mutable](https://mutable.ai) - Build fast with production quality using AI. Code Assistant. Free trial available.
 
+
+## AI Logo Generator
+
+* [Looka](https://looka.grsm.io) - Looka Logo Maker combines your logo design preferences with Artificial Intelligence to help you create a custom logo you'll love. Free trial available.
+* [Namecheap Logo Maker](https://namecheap.com) - Simply answer a handful of questions and get hundreds of logos to download for free. Free trial available.
+* [Brandmark](https://brandmark.io) - Create a unique, professional logo for your business. Use our free AI-powered design tools to get color and font ideas for your next logo project. Free trial available.
+* [Make Logo AI](https://makelogoai.com) - Designer-quality logos for less than a coffee. HD + transparent background. Delivered in less than 24 hours. Commercial rights. No free trial or subscription option.
+
+
+## Product & marketing personalized videos tools
+
+* [BHuman](https://bhuman.ai) - Produce a single video and personalize it for thousands of recipients. Deliver over any channel and measure results instantly. You can do this by recording your template, connecting your data and then generating personalized videos. Free trial available.
+* [Vidyo](https://vidyo.ai) - Make short videos from long ones instantly. Use powerful AI to create short clips from your existing videos. Save 90% time and effort. Free trial available.
+* [Tavus](https://tavus.io) - Meet Tavus, the programmatic personalized video tool made for top-performing product, marketing, and sales teams that want to transform how they build relationships. Record once and discover the power of Tavus as our AI automatically generates personalized videos for audiences large and small. No free trial.
+* [Windsor](https://windsor.io) - Send a personal video to every single customer so they never forget your brand. Record one video, and Windsor's AI sends out millions of personalized copies to your customers. Free trial available.
+* [Rephrase](https://rephrase.ai) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies. Free trial available.
+
+
+## Legal Assistant for making things serious
+
+* [DoNotPay](https://donotpay.com) - The World's First Robot Lawyer. The DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button. (Free subscription option)
+* [Spellbook](https://spellbook.legal) - Draft contracts 3x faster with AI. Spellbook uses GPT-3 to review and suggest language for your contracts in Microsoft Word. Trained on billions of lines of legalese, Spellbook suggests language for your contracts instantly. (Free trial)
+* [PatentPal](https://patentpal.com/) - Generative AI for Intellectual Property. Automate mechanical writing in your patent applications. (Free)
