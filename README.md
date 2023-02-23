@@ -12,6 +12,7 @@ This AI tools list should help you on every stage of product development: from w
 
 
 
+## Design tools
 
 ## Development tools
 
@@ -77,6 +78,8 @@ This AI tools list should help you on every stage of product development: from w
 * [Rephrase](https://rephrase.ai) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business
  efficiencies. Free trial available.
 
+
+## Support Tools
 
 
 ## Legal Assistant for making things serious
