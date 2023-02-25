@@ -82,6 +82,26 @@ This AI tools list should help you on every stage of product development: from w
 ## Support Tools
 
 
+## SEO tools
+
+* [Writesonic](https://writesonic.com) - Creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free. Our paraphrasing tool lets you rephrase entire articles instantly. Free trial available.
+* [Moonbeam](https://gomoonbeam.com) - Moonbeam's AI will give you everything you need to write killer long form content. Become 2x Better at Writing in 10 Minutes. Free trial available.
+* [LongShot](https://longShot.ai) - Create blogs that humans and search engines love using Artificial intelligence. LongShot is an AI writing assistant that helps you and your team create helpful blogs that rank on Google. Free trial available.
+* [Copymatic](https://copymatic.ai) - Generate Content & Copy In Seconds with AI Use AI to boost your traffic and save hours of work. Automatically write unique, engaging and high-quality copy or content: from long-form blog posts or landing pages to digital ads in seconds. Free trial available.
+* [AI-Writer](https://ai-writer.com) - AI-Writer is the most accurate content generation platform. Uses state-of-the-art AI writing models to generate articles from just a headline. Free trial available.
+* [Typli](https://typli.ai) - The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant. Free trial available.
+* [Word Spinner](https://word-spinner.com) - Instantly rewrite any article or text into SEO-friendly unique content. Word Spinner can make your writing shine like never before, making it a great option for any who wants to improve their writing skills. Free trial available.
+* [Wordhero](https://wordhero.co) - With WordHero's AI technology, you can create original blog posts, social media content, emails, and more - in just seconds. Free trial available.
+* [growthbar](https://growthbarseo.com) - Write perfect SEO-friendly content for blog posts, website pages, and articles… with AI. Free trial available.
+* [SEO GPT](https://seovendor.co/seo-gpt//) - SEO GPT is a new way to create your SEO on-page and off-page optimizations. Some features include Google-friendly titles and descriptions, pass AI detection, natural language content and analysis of page content. Free to use.
+* [BlogNLP](https://blognlp.com) - BlogNLP is a free AI blog writing tool that helps you break your writer's block to create original content in a fraction of a time. No free trial available.
+* [VidIq](https://vidiq.com/) - VidIQ is a SaaS product designed to help YouTube creators find topics and keywords for their videos. VidIQ's AI features include personalized prompts for your next video, view prediction count, and predictive analytics. Freemium model.
+* [Jenni](https://jenni.ai) - You Write, Jenni Completes. Supercharge your writing with the most advanced AI writing assistant. No free trial available.
+* [Mentioned](https://mentioned.ai) - Influencer outreach & link building on auto-pilot. We scan your content to identify people and companies you've mentioned, then, send email campaigns to let them know. Free trial available.
+* [Writey AI](https://writey.ai) - Changing the way content is created. Create content faster with artificial intelligence. Most advanced language A.I. First true free plagiarism A.I with original and researched content. No free trial or subscription option available.
+* [Topicmojo](https://topicmojo.com) - Topic Mojo is an AI tool for content research.
+
+
 ## Legal Assistant for making things serious
 
 * [DoNotPay](https://donotpay.com) - The World's First Robot Lawyer. The DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button. (Free subscription option)
