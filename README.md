@@ -82,6 +82,25 @@ This AI tools list should help you on every stage of product development: from w
 ## Support Tools
 
 
+## Content & Copywriting tools
+
+* [Adcreative.ai](https://www.adcreative.ai/) - Generate conversion focused ad and social media post creatives in a matter of seconds. Get better results while saving time. Free subscription option available.
+* [Anyword](https://anyword.com) - Anyword’s AI writing assistant generates effective copy for anyone. Take the guesswork out of your marketing text with an AI copywriting tool that converts. No free trial or subscription.
+* [Bertha.ai](https://bertha.ai) - The best value AI Copywriting assistant there is - Fact! Get 5,000 Words free forever. Bertha AI - the copywriting assistant for WordPress and beyond. Free trial.
+* [Botowski](https://www.botowski.com/) - Botowski is your new personal AI copywriter. Free trial available.
+* [Contents](https://contents.com) - Power up your content strategy. The Generative AI platform makes content creation easy and built for performance. No free trial or free subscription option.
+* [Copy.ai](https://copy.ai) - Get great copy that sells. Copy.ai is an AI-powered copywriter that generates high-quality copy for your business. Get started for free, no credit card required! Marketing simplified! Free subscription option available.
+* [CopyMonkey](https://copymonkey.ai/) - CopyMonkey generates and optimizes Amazon listings in seconds. AI helps place all of the important keywords in your Amazon listing to get you ranking organically on the first page. Free trial.
+* [Copypage](https://www.copypage.online/) - AI content generator where you can generate blogs, resumes, emails, sales copies, digital ad copies, startup ideas, questions, and answers. Freemium.
+* [Copysmith](https://copysmith.ai/) - The chosen AI Copywriting Software for eCommerce teams & agencies. Generate more revenue than ever before. Sign up for your free trial today. Free trial.
+* [Cowriter](https://cowriter.org/) - Tired of staring at a blank screen? Meet your AI copywriter that can create inspiring creative content. Yes.
+* [Creator AI](https://www.creaitor.ai/) - Creaitor helps you write content in a more powerful, emotionally expressive way. Free trial.
+* [Daydrm.ai](https://www.daydrm.ai) - AI tool for creative advertising ideas. Concepts-on-demand for creatives and agencies. A large language model trained on human-written creative advertising campaigns. No free trial or subscription option available.
+* [Digital First AI](https://digitalfirst.ai) - Create marketing plans in seconds using AI. Find the best growth-hacking tactics for your business with AI. Switch marketing to autopilot and grow. Free trial.
+* [Easy-Peasy.AI](https://easy-peasy.ai/) - Get your copywriting done faster and easier with 🤖 AI tools. You can also use our AI avatar generator to generate avators. Easy-Peasy.AI believes that everyone has a story to tell. With our AI copywriting tools, we help you tell your story in the most engaging way possible. Free subscription available.
+* [Hypotenuse ai](https://hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy with AI copywriting—all in just minutes. Try it free today. Free trial.
+
+
 ## SEO tools
 
 * [Writesonic](https://writesonic.com) - Creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free. Our paraphrasing tool lets you rephrase entire articles instantly. Free trial available.
