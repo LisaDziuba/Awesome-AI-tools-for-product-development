@@ -14,6 +14,9 @@ This AI tools list should help you on every stage of product development: from w
 
 ## Design tools
 
+## 
+
+
 ## Development tools
 
 - [Lookup](https://app.uselookup.com) - The AI-powered analytics platform that helps you get from data to insight 10X faster. Import your data, ask questions, get results instantly. Code Assistant. No free trial available.
@@ -80,6 +83,8 @@ This AI tools list should help you on every stage of product development: from w
 
 
 ## Support Tools
+
+## Audio Editing
 
 
 ## Content & Copywriting tools
