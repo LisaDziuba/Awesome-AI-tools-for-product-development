@@ -131,3 +131,8 @@ This AI tools list should help you on every stage of product development: from w
 * [DoNotPay](https://donotpay.com) - The World's First Robot Lawyer. The DoNotPay app is the home of the world's first robot lawyer. Fight corporations, beat bureaucracy and sue anyone at the press of a button. (Free subscription option)
 * [Spellbook](https://spellbook.legal) - Draft contracts 3x faster with AI. Spellbook uses GPT-3 to review and suggest language for your contracts in Microsoft Word. Trained on billions of lines of legalese, Spellbook suggests language for your contracts instantly. (Free trial)
 * [PatentPal](https://patentpal.com/) - Generative AI for Intellectual Property. Automate mechanical writing in your patent applications. (Free)
+
+
+Useful newsletters for those who are curious to learn more:
+
+- 
