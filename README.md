@@ -61,6 +61,7 @@ This AI tools list should help you on every stage of product development: from w
 * [Fig AI](https://fig.io/user-manual/ai) - A seamless add-on to your existing terminal, Fig integrates with the most popular terminals, shells & IDEs. No free trial or free subscription option.
 * [AskCodi](https://www.askcodi.com) - Write Syntax, Comments, and Tests. Faster. Easier. Better. AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent on development and more time to execute. No free trial or subscription.
 * [Maverick](https://marketplace.visualstudio.com/items?itemName=YurtsAI.maverick&) - Maverick is a code completion tool powered by AI. Built at Yurts, Maverick focuses on delivering the best code completion on your local machine without reaching out to any APIs or knowledge bases. Free trial available.
+* [ZZZ Code AI](https://zzzcode.ai/) - AI-powered free website to get any programming question answered or code generated.
 
 
 
